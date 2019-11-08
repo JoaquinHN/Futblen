@@ -1,26 +1,33 @@
-package com.darax.futblen.actividades
-
+package com.darax.futblen.activities.detail
 import android.os.Build
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.darax.futblen.api.TheSportDBApi
+import com.darax.futblen.api.TheSportDBRest
+import com.darax.futblen.model.MatchEvent
+import com.darax.futblen.model.MatchEventPresenter
+import com.darax.futblen.model.Teams
+import com.darax.futblen.R
+import com.squareup.picasso.Picasso
+import kotlinx.android.synthetic.main.activity_detail.*
 
 class DetailActivity : AppCompatActivity(), DetailView.View {
 
     override fun displayTeamBadgeAway(team: Teams) {
         Picasso.get()
-            .load(team.strTeamBadge)
-            .placeholder(R.drawable.ic_launcher_background)
-            .error(R.drawable.ic_launcher_background)
-            .into(img_away)
+                .load(team.strTeamBadge)
+                .placeholder(R.drawable.ic_launcher_background)
+                .error(R.drawable.ic_launcher_background)
+                .into(img_away)
     }
 
     override fun displayTeamBadgeHome(team: Teams) {
 
         Picasso.get()
-            .load(team.strTeamBadge)
-            .placeholder(R.drawable.ic_launcher_background)
-            .error(R.drawable.ic_launcher_background)
-            .into(img_home)
+                .load(team.strTeamBadge)
+                .placeholder(R.drawable.ic_launcher_background)
+                .error(R.drawable.ic_launcher_background)
+                .into(img_home)
     }
 
     private lateinit var mPresenter: DetailPresenter
