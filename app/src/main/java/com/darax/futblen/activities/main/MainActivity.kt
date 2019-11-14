@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity(), AnkoLogger, MainView.View {
 
     private var matchLists : MutableList<MatchEvent> = mutableListOf()
 
+    //Llamar al layout principal
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

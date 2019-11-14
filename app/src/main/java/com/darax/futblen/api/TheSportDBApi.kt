@@ -1,13 +1,13 @@
 package com.darax.futblen.api
 
-import com.darax.futblen.BuildConfig
+
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import retrofit2.converter.gson.GsonConverterFactory
 
 
 class TheSportDBApi {
-
+    //Conexion con la API
     companion object {
         val BASE_URL = "https://www.thesportsdb.com/"
         val TSDB_API_KEY = "1/"

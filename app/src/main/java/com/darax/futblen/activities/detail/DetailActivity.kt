@@ -13,7 +13,12 @@ import kotlinx.android.synthetic.main.activity_detail.*
 
 class DetailActivity : AppCompatActivity(), DetailView.View {
 
+    //TUTORIAL ACERCAD DE RECYCLER VIEW
+    //https://cursokotlin.com/capitulo-15-recyclerview-kotlin/
     override fun displayTeamBadgeAway(team: Teams) {
+
+        //Koltin picasso
+        //https://alexdunn.org/2018/06/20/android-kotlin-basics-lazy-loading-images-with-picasso/
         Picasso.get()
                 .load(team.strTeamBadge)
                 .placeholder(R.drawable.ic_launcher_background)
@@ -22,6 +27,7 @@ class DetailActivity : AppCompatActivity(), DetailView.View {
     }
 
     override fun displayTeamBadgeHome(team: Teams) {
+
 
         Picasso.get()
                 .load(team.strTeamBadge)

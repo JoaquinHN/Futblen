@@ -47,3 +47,5 @@ data class MatchEvent(
         @SerializedName("strSport") var strSport: String?,
         @SerializedName("strTime") var strTime: String?
 ) : Parcelable
+//@SerializedName, que usaremos para añadir el nombre exacto del valor que devuelve el API.
+// Este atributo lo podemos quitar si el nombre de nuestro campo es exacto al que devuelve la respuesta, pero recomiendo dejarlo.

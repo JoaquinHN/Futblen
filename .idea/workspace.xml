@@ -38,46 +38,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBApi.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding>
-                <element signature="e#31#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBRest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding>
-                <element signature="e#31#208#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailActivity.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
-              <folding>
-                <element signature="e#44#476#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="182">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
                 <element signature="e#43#672#0" expanded="true" />
               </folding>
@@ -88,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainPresenter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="493">
               <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="e#43#244#0" expanded="true" />
@@ -107,37 +71,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/adapter/TeamsAdapter.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBApi.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
-                <element signature="e#35#448#0" expanded="true" />
+                <element signature="e#32#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEvent.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventPresenter.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
               <folding>
-                <element signature="e#92#210#0" expanded="true" />
+                <element signature="e#34#106#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailPresenter.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventResponse.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#46#247#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventView.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/Teams.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/TeamsResponse.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -145,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailView.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="204">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -173,39 +161,42 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/actividades/DetalleActividad.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/match_item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/adapter/TeamsAdapter.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/utils/Utils.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/Teams.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventResponse.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailView.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/TeamsResponse.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEvent.kt" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainView.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/ids.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventView.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBRest.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/darax/futblen/BuildConfig.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBApi.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventPresenter.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailPresenter.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainPresenter.kt" />
+        <option value="$PROJECT_DIR$/.idea/gradle.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/ids.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/app/Activity.java" />
+        <option value="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/TextView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/adapter/TeamsAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBApi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEvent.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="126" />
-    <option name="width" value="1440" />
-    <option name="height" value="775" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -213,6 +204,23 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Futblen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Futblen" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Futblen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Futblen" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -286,35 +294,38 @@
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="Futblen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Futblen" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Futblen" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
-              <item name="Futblen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Futblen" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Futblen" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0ef6c45b2206acf78a94526eac657a5/recyclerview-v7-28.0.0/jars/classes.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dicoding-football-match-schedule-ver1-master" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -415,6 +426,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
@@ -431,11 +451,11 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Logcat" order="4" weight="0.3286119" />
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="8" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Logcat" order="4" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32719547" />
       <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -446,291 +466,9 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/runConfigurations.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/actividades/DetallesdeActvidades.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/actividades/detalles/DetalleActividad.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/actividades/detalles/fghf/asd.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/actividades/DetalleActividad.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/MainActivity.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/darax/futblen/ExampleInstrumentedTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="e#27#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/darax/futblen/ExampleUnitTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/match.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/star.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation_menu.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/darax/futblen/BuildConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.5/ec88493d3425ce016649472e5a2bacb1538046bf/anko-commons-0.10.5-sources.jar!/Internals.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/ContextWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="378" selection-start-line="378" selection-end-line="378" />
-          <folding>
-            <element signature="e#9384#9385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.5/ec88493d3425ce016649472e5a2bacb1538046bf/anko-commons-0.10.5-sources.jar!/Intents.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="25884" selection-start-line="25884" selection-end-line="25884" />
-          <folding>
-            <element signature="e#1040315#1040316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/os/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/os/Looper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2890">
-          <caret line="192" selection-start-line="192" selection-end-line="192" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/Intent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17272">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0ef6c45b2206acf78a94526eac657a5/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25370">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventPresenter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventResponse.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/Teams.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1393">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/TeamsResponse.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/utils/Utils.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="320" column="47" lean-forward="true" selection-start-line="320" selection-start-column="47" selection-end-line="320" selection-end-column="47" />
-          <folding>
-            <element signature="e#10767#10784#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/match_item.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBApi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#31#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
-          <folding>
-            <element signature="e#44#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#43#672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainPresenter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="314">
           <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="e#43#244#0" expanded="true" />
@@ -745,30 +483,530 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/adapter/TeamsAdapter.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/Teams.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/TeamsResponse.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/utils/Utils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/Flowable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13320" column="29" selection-start-line="13320" selection-start-column="29" selection-end-line="13320" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9af811ed7080d9e069f702001c2b64c4/appcompat-v7-28.0.0/jars/classes.jar!/android/support/v7/app/AppCompatActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1017">
+          <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9af811ed7080d9e069f702001c2b64c4/appcompat-v7-28.0.0/jars/classes.jar!/android/support/v7/app/ActionBar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1278">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1686" column="25" selection-start-line="1686" selection-start-column="25" selection-end-line="1686" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="1116" selection-start-line="1116" selection-end-line="1116" />
           <folding>
-            <element signature="e#35#448#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2723#2724#0" expanded="true" />
+            <element signature="e#2774#2775#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEvent.kt">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="-521">
+          <caret line="6662" selection-start-line="6662" selection-end-line="6662" />
           <folding>
-            <element signature="e#92#210#0" expanded="true" />
+            <element signature="e#266031#266032#0" expanded="true" />
+            <element signature="e#266104#266105#0" expanded="true" />
+            <element signature="e#409021#409022#0" expanded="true" />
+            <element signature="e#409074#409075#0" expanded="true" />
+            <element signature="e#1040269#1040270#0" expanded="true" />
+            <element signature="e#1040315#1040316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="906" selection-start-line="906" selection-end-line="906" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.5/ec88493d3425ce016649472e5a2bacb1538046bf/anko-commons-0.10.5-sources.jar!/Internals.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.5/ec88493d3425ce016649472e5a2bacb1538046bf/anko-commons-0.10.5-sources.jar!/Intents.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="29" column="91" lean-forward="true" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
+          <folding>
+            <element signature="e#671#936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0ef6c45b2206acf78a94526eac657a5/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="4290" column="26" selection-start-line="4290" selection-start-column="26" selection-end-line="4290" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/ViewGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9790">
+          <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEventPresenter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#34#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/ContextWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4216">
+          <caret line="378" selection-start-line="378" selection-end-line="378" />
+          <folding>
+            <element signature="e#9384#9385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/TextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88417">
+          <caret line="5526" column="22" selection-start-line="5526" selection-start-column="22" selection-end-line="5526" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#486587#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#19961#19962#0" expanded="true" />
+            <element signature="e#20041#20042#0" expanded="true" />
+            <element signature="e#35502#35503#0" expanded="true" />
+            <element signature="e#35537#35538#0" expanded="true" />
+            <element signature="e#75981#75982#0" expanded="true" />
+            <element signature="e#76021#76022#0" expanded="true" />
+            <element signature="e#76310#76311#0" expanded="true" />
+            <element signature="e#76373#76374#0" expanded="true" />
+            <element signature="e#76840#76841#0" expanded="true" />
+            <element signature="e#76899#76900#0" expanded="true" />
+            <element signature="e#77367#77368#0" expanded="true" />
+            <element signature="e#77426#77427#0" expanded="true" />
+            <element signature="e#77719#77720#0" expanded="true" />
+            <element signature="e#77764#77765#0" expanded="true" />
+            <element signature="e#90344#90345#0" expanded="true" />
+            <element signature="e#90372#90373#0" expanded="true" />
+            <element signature="e#90517#90518#0" expanded="true" />
+            <element signature="e#90544#90545#0" expanded="true" />
+            <element signature="e#91269#91270#0" expanded="true" />
+            <element signature="e#91297#91298#0" expanded="true" />
+            <element signature="e#91496#91497#0" expanded="true" />
+            <element signature="e#91533#91534#0" expanded="true" />
+            <element signature="e#92587#92588#0" expanded="true" />
+            <element signature="e#92617#92618#0" expanded="true" />
+            <element signature="e#92796#92797#0" expanded="true" />
+            <element signature="e#92830#92831#0" expanded="true" />
+            <element signature="e#93456#93457#0" expanded="true" />
+            <element signature="e#93486#93487#0" expanded="true" />
+            <element signature="e#98256#98257#0" expanded="true" />
+            <element signature="e#98288#98289#0" expanded="true" />
+            <element signature="e#100185#100186#0" expanded="true" />
+            <element signature="e#100223#100224#0" expanded="true" />
+            <element signature="e#106669#106670#0" expanded="true" />
+            <element signature="e#106716#106717#0" expanded="true" />
+            <element signature="e#106869#106870#0" expanded="true" />
+            <element signature="e#106917#106918#0" expanded="true" />
+            <element signature="e#107070#107071#0" expanded="true" />
+            <element signature="e#107118#107119#0" expanded="true" />
+            <element signature="e#107265#107266#0" expanded="true" />
+            <element signature="e#107311#107312#0" expanded="true" />
+            <element signature="e#107567#107568#0" expanded="true" />
+            <element signature="e#107639#107640#0" expanded="true" />
+            <element signature="e#136679#136680#0" expanded="true" />
+            <element signature="e#136715#136716#0" expanded="true" />
+            <element signature="e#137350#137351#0" expanded="true" />
+            <element signature="e#137400#137401#0" expanded="true" />
+            <element signature="e#152094#152095#0" expanded="true" />
+            <element signature="e#152143#152144#0" expanded="true" />
+            <element signature="e#152377#152378#0" expanded="true" />
+            <element signature="e#152427#152428#0" expanded="true" />
+            <element signature="e#156141#156142#0" expanded="true" />
+            <element signature="e#156188#156189#0" expanded="true" />
+            <element signature="e#156394#156395#0" expanded="true" />
+            <element signature="e#156462#156463#0" expanded="true" />
+            <element signature="e#157522#157523#0" expanded="true" />
+            <element signature="e#157583#157584#0" expanded="true" />
+            <element signature="e#159246#159247#0" expanded="true" />
+            <element signature="e#159295#159296#0" expanded="true" />
+            <element signature="e#161194#161195#0" expanded="true" />
+            <element signature="e#161241#161242#0" expanded="true" />
+            <element signature="e#163402#163403#0" expanded="true" />
+            <element signature="e#163448#163449#0" expanded="true" />
+            <element signature="e#163924#163925#0" expanded="true" />
+            <element signature="e#163979#163980#0" expanded="true" />
+            <element signature="e#164320#164321#0" expanded="true" />
+            <element signature="e#164372#164373#0" expanded="true" />
+            <element signature="e#165672#165673#0" expanded="true" />
+            <element signature="e#165730#165731#0" expanded="true" />
+            <element signature="e#166111#166112#0" expanded="true" />
+            <element signature="e#166171#166172#0" expanded="true" />
+            <element signature="e#167154#167155#0" expanded="true" />
+            <element signature="e#167191#167192#0" expanded="true" />
+            <element signature="e#168376#168377#0" expanded="true" />
+            <element signature="e#168420#168421#0" expanded="true" />
+            <element signature="e#170295#170296#0" expanded="true" />
+            <element signature="e#170336#170337#0" expanded="true" />
+            <element signature="e#175174#175175#0" expanded="true" />
+            <element signature="e#175207#175208#0" expanded="true" />
+            <element signature="e#175395#175396#0" expanded="true" />
+            <element signature="e#175431#175432#0" expanded="true" />
+            <element signature="e#176045#176046#0" expanded="true" />
+            <element signature="e#176083#176084#0" expanded="true" />
+            <element signature="e#178199#178200#0" expanded="true" />
+            <element signature="e#178235#178236#0" expanded="true" />
+            <element signature="e#178465#178466#0" expanded="true" />
+            <element signature="e#178497#178498#0" expanded="true" />
+            <element signature="e#178779#178780#0" expanded="true" />
+            <element signature="e#178811#178812#0" expanded="true" />
+            <element signature="e#179090#179091#0" expanded="true" />
+            <element signature="e#179125#179126#0" expanded="true" />
+            <element signature="e#179357#179358#0" expanded="true" />
+            <element signature="e#179390#179391#0" expanded="true" />
+            <element signature="e#179700#179701#0" expanded="true" />
+            <element signature="e#179736#179737#0" expanded="true" />
+            <element signature="e#180152#180153#0" expanded="true" />
+            <element signature="e#180193#180194#0" expanded="true" />
+            <element signature="e#180562#180563#0" expanded="true" />
+            <element signature="e#180600#180601#0" expanded="true" />
+            <element signature="e#182519#182520#0" expanded="true" />
+            <element signature="e#182556#182557#0" expanded="true" />
+            <element signature="e#184020#184021#0" expanded="true" />
+            <element signature="e#184057#184058#0" expanded="true" />
+            <element signature="e#185592#185593#0" expanded="true" />
+            <element signature="e#185623#185624#0" expanded="true" />
+            <element signature="e#185837#185838#0" expanded="true" />
+            <element signature="e#185881#185882#0" expanded="true" />
+            <element signature="e#187219#187220#0" expanded="true" />
+            <element signature="e#187264#187265#0" expanded="true" />
+            <element signature="e#188595#188596#0" expanded="true" />
+            <element signature="e#188651#188652#0" expanded="true" />
+            <element signature="e#190135#190136#0" expanded="true" />
+            <element signature="e#190192#190193#0" expanded="true" />
+            <element signature="e#191456#191457#0" expanded="true" />
+            <element signature="e#191512#191513#0" expanded="true" />
+            <element signature="e#192761#192762#0" expanded="true" />
+            <element signature="e#192818#192819#0" expanded="true" />
+            <element signature="e#195574#195575#0" expanded="true" />
+            <element signature="e#195634#195635#0" expanded="true" />
+            <element signature="e#197095#197096#0" expanded="true" />
+            <element signature="e#197158#197159#0" expanded="true" />
+            <element signature="e#198353#198354#0" expanded="true" />
+            <element signature="e#198413#198414#0" expanded="true" />
+            <element signature="e#199641#199642#0" expanded="true" />
+            <element signature="e#199704#199705#0" expanded="true" />
+            <element signature="e#202490#202491#0" expanded="true" />
+            <element signature="e#202525#202526#0" expanded="true" />
+            <element signature="e#202881#202882#0" expanded="true" />
+            <element signature="e#202915#202916#0" expanded="true" />
+            <element signature="e#204122#204123#0" expanded="true" />
+            <element signature="e#204168#204169#0" expanded="true" />
+            <element signature="e#212317#212318#0" expanded="true" />
+            <element signature="e#212359#212360#0" expanded="true" />
+            <element signature="e#212685#212686#0" expanded="true" />
+            <element signature="e#212720#212721#0" expanded="true" />
+            <element signature="e#215216#215217#0" expanded="true" />
+            <element signature="e#215258#215259#0" expanded="true" />
+            <element signature="e#215948#215949#0" expanded="true" />
+            <element signature="e#215999#216000#0" expanded="true" />
+            <element signature="e#229948#229949#0" expanded="true" />
+            <element signature="e#229976#229977#0" expanded="true" />
+            <element signature="e#230006#230007#0" expanded="true" />
+            <element signature="e#230040#230041#0" expanded="true" />
+            <element signature="e#252010#252011#0" expanded="true" />
+            <element signature="e#252072#252073#0" expanded="true" />
+            <element signature="e#255913#255914#0" expanded="true" />
+            <element signature="e#255944#255945#0" expanded="true" />
+            <element signature="e#265856#265857#0" expanded="true" />
+            <element signature="e#265919#265920#0" expanded="true" />
+            <element signature="e#266159#266160#0" expanded="true" />
+            <element signature="e#266226#266227#0" expanded="true" />
+            <element signature="e#266286#266287#0" expanded="true" />
+            <element signature="e#266353#266354#0" expanded="true" />
+            <element signature="e#276686#276687#0" expanded="true" />
+            <element signature="e#276710#276711#0" expanded="true" />
+            <element signature="e#286133#286134#0" expanded="true" />
+            <element signature="e#286200#286201#0" expanded="true" />
+            <element signature="e#315598#315599#0" expanded="true" />
+            <element signature="e#315659#315660#0" expanded="true" />
+            <element signature="e#315693#315694#0" expanded="true" />
+            <element signature="e#315752#315753#0" expanded="true" />
+            <element signature="e#316732#316733#0" expanded="true" />
+            <element signature="e#316760#316761#0" expanded="true" />
+            <element signature="e#331357#331358#0" expanded="true" />
+            <element signature="e#331420#331421#0" expanded="true" />
+            <element signature="e#333045#333046#0" expanded="true" />
+            <element signature="e#333079#333080#0" expanded="true" />
+            <element signature="e#362933#362934#0" expanded="true" />
+            <element signature="e#362991#362992#0" expanded="true" />
+            <element signature="e#364068#364069#0" expanded="true" />
+            <element signature="e#364129#364130#0" expanded="true" />
+            <element signature="e#364290#364291#0" expanded="true" />
+            <element signature="e#364349#364350#0" expanded="true" />
+            <element signature="e#365243#365244#0" expanded="true" />
+            <element signature="e#365278#365279#0" expanded="true" />
+            <element signature="e#369922#369923#0" expanded="true" />
+            <element signature="e#369972#369973#0" expanded="true" />
+            <element signature="e#370401#370402#0" expanded="true" />
+            <element signature="e#370443#370444#0" expanded="true" />
+            <element signature="e#370649#370650#0" expanded="true" />
+            <element signature="e#370682#370683#0" expanded="true" />
+            <element signature="e#394573#394574#0" expanded="true" />
+            <element signature="e#394642#394643#0" expanded="true" />
+            <element signature="e#395289#395290#0" expanded="true" />
+            <element signature="e#395318#395319#0" expanded="true" />
+            <element signature="e#405834#405835#0" expanded="true" />
+            <element signature="e#405862#405863#0" expanded="true" />
+            <element signature="e#406306#406307#0" expanded="true" />
+            <element signature="e#406333#406334#0" expanded="true" />
+            <element signature="e#407291#407292#0" expanded="true" />
+            <element signature="e#407355#407356#0" expanded="true" />
+            <element signature="e#407935#407936#0" expanded="true" />
+            <element signature="e#407976#407977#0" expanded="true" />
+            <element signature="e#408732#408733#0" expanded="true" />
+            <element signature="e#408779#408780#0" expanded="true" />
+            <element signature="e#434593#434594#0" expanded="true" />
+            <element signature="e#434659#434660#0" expanded="true" />
+            <element signature="e#451086#451087#0" expanded="true" />
+            <element signature="e#451152#451153#0" expanded="true" />
+            <element signature="e#454281#454282#0" expanded="true" />
+            <element signature="e#454340#454341#0" expanded="true" />
+            <element signature="e#454365#454366#0" expanded="true" />
+            <element signature="e#454424#454425#0" expanded="true" />
+            <element signature="e#469264#469265#0" expanded="true" />
+            <element signature="e#469292#469293#0" expanded="true" />
+            <element signature="e#470825#470826#0" expanded="true" />
+            <element signature="e#470867#470868#0" expanded="true" />
+            <element signature="e#470955#470956#0" expanded="true" />
+            <element signature="e#470982#470983#0" expanded="true" />
+            <element signature="e#471074#471075#0" expanded="true" />
+            <element signature="e#471114#471115#0" expanded="true" />
+            <element signature="e#473283#473284#0" expanded="true" />
+            <element signature="e#473324#473325#0" expanded="true" />
+            <element signature="e#474617#474618#0" expanded="true" />
+            <element signature="e#474690#474691#0" expanded="true" />
+            <element signature="e#474752#474753#0" expanded="true" />
+            <element signature="e#474827#474828#0" expanded="true" />
+            <element signature="e#475892#475893#0" expanded="true" />
+            <element signature="e#475930#475931#0" expanded="true" />
+            <element signature="e#475969#475970#0" expanded="true" />
+            <element signature="e#476020#476021#0" expanded="true" />
+            <element signature="e#476074#476075#0" expanded="true" />
+            <element signature="e#476140#476141#0" expanded="true" />
+            <element signature="e#479949#479950#0" expanded="true" />
+            <element signature="e#479987#479988#0" expanded="true" />
+            <element signature="e#483256#483257#0" expanded="true" />
+            <element signature="e#483299#483300#0" expanded="true" />
+            <element signature="e#483328#483329#0" expanded="true" />
+            <element signature="e#483366#483367#0" expanded="true" />
+            <element signature="e#483402#483403#0" expanded="true" />
+            <element signature="e#483447#483448#0" expanded="true" />
+            <element signature="e#483487#483488#0" expanded="true" />
+            <element signature="e#483538#483539#0" expanded="true" />
+            <element signature="e#483575#483576#0" expanded="true" />
+            <element signature="e#483657#483658#0" expanded="true" />
+            <element signature="e#483688#483689#0" expanded="true" />
+            <element signature="e#483745#483746#0" expanded="true" />
+            <element signature="e#483776#483777#0" expanded="true" />
+            <element signature="e#483833#483834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation_menu.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/match_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="6069">
+          <caret line="357" column="13" selection-start-line="357" selection-start-column="13" selection-end-line="357" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="97" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
+          <folding>
+            <element signature="e#44#476#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailPresenter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="408">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding>
             <element signature="e#46#247#0" expanded="true" />
           </folding>
@@ -777,17 +1015,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/detail/DetailView.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/adapter/TeamsAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/activities/main/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#43#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#32#169#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/api/TheSportDBRest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="e#31#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/darax/futblen/model/MatchEvent.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <folding>
+            <element signature="e#92#210#0" expanded="true" />
           </folding>
         </state>
       </provider>

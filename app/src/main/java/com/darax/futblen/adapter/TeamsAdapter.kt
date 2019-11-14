@@ -1,6 +1,7 @@
 package com.darax.futblen.adapter
 
 import android.content.Context
+import android.content.Intent
 import android.os.Build
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
@@ -16,6 +17,7 @@ class TeamsAdapter(private val eventList:List<MatchEvent>, val context: Context)
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ClubViewHolder {
+
         return ClubViewHolder(LayoutInflater.from(context).inflate(R.layout.match_item, parent, false))
     }
 
@@ -40,8 +42,14 @@ class TeamsAdapter(private val eventList:List<MatchEvent>, val context: Context)
             itemView.awayScoreTv.text = event.intAwayScore
 
 
+
+
+
             itemView.setOnClickListener {
                 itemView.context.startActivity<DetailActivity>("match" to event)
+
+                Intent.FLAG_ACTIVITY_NEW_TASK
+
             }
         }
     }

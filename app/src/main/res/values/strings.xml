@@ -1,17 +1,17 @@
 <resources>
     <string name="app_name">Futblen</string>
-    <string name="last_match">Last Match</string>
+    <string name="last_match">Partidos Terminados</string>
     <string name="favorite">Favorite</string>
     <string name="home_badge">Home Badge</string>
     <string name="vs">VS</string>
     <string name="away_badge">Away Badge</string>
-    <string name="shots">Shooting</string>
-    <string name="goaler">Goaler</string>
-    <string name="goalkeeper">Goal Keeper</string>
-    <string name="defense">Defense</string>
-    <string name="midfield">Midfield</string>
-    <string name="forward">Forward</string>
-    <string name="substitutes">Substitute</string>
+    <string name="shots">Tirador</string>
+    <string name="goaler">Goleador</string>
+    <string name="goalkeeper">Portero</string>
+    <string name="defense">Defensa</string>
+    <string name="midfield">Medio Campo</string>
+    <string name="forward">Delantero</string>
+    <string name="substitutes">Sustitutos</string>
 
 
     <array name="league">
@@ -23,12 +23,12 @@
     </array>
 
     <array name="match_spinner">
-        <item>Past Match</item>
-        <item>Next Match</item>
+        <item>Partidos Pasados</item>
+        <item>Proximos Partidos</item>
     </array>
     <string name="empty_data">Empty Data</string>
-    <string name="past_match">Past Match</string>
-    <string name="next_match">Next Match</string>
+    <string name="past_match">Partidos Pasados</string>
+    <string name="next_match">Proximos Partidos</string>
     <string name="english_pemier_league">English Premier League</string>
     <string name="english_league_championship">English League Championship</string>
     <string name="german_bundes_liga">German Bundesliga</string>
@@ -42,8 +42,8 @@
     <string name="match_french_ligue_1">4334</string>
     <string name="match_spanish_la_liga">4335</string>
     <string name="empty_parameter">empty_parameter</string>
-    <string name="pastMatch">Past Match</string>
-    <string name="nextMatch">Next Match</string>
+    <string name="pastMatch">Partidos Pasados</string>
+    <string name="nextMatch">Proximos Partidos</string>
 
 
 </resources>

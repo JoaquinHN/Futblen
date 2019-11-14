@@ -2,8 +2,9 @@
 
 buildscript {
     ext.kotlin_version = '1.3.50'
-    //anko_version = "0.10.5"
-    //gson = '2.8.2'
+    ext.anko_version = '0.10.7'
+    ext.gson = '2.8.2'
+
 
 
     repositories {
