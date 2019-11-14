@@ -1,4 +1,4 @@
-package com.example.achmad.FootballMatchScheduleVer1.model
+package com.darax.futblen.model
 
 import io.reactivex.Flowable
 

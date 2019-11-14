@@ -1,6 +1,6 @@
 package com.darax.futblen.activities.main
 
-import com.example.achmad.FootballMatchScheduleVer1.model.MatchEvent
+import com.darax.futblen.model.MatchEvent
 
 interface MainView {
 

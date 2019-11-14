@@ -5,9 +5,9 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 
-class MainPresenter(val mView : MainView.View, val matchEventPresenter: MatchEventPresenter) : MainView.Presenter {
+class MainPresenter(private val mView : MainView.View, private val matchEventPresenter: MatchEventPresenter) : MainView.Presenter {
 
-    val compositeDisposable = CompositeDisposable()
+    private val compositeDisposable = CompositeDisposable()
 
     override fun getFootballUpcomingData() {
         mView.showLoading()

@@ -1,12 +1,12 @@
 package com.darax.futblen.activities.detail
 
-import ccom.darax.futblen.activities.detail.DetailView
-import com.example.achmad.FootballMatchScheduleVer1.model.MatchEventPresenter
+
+import com.darax.futblen.model.MatchEventPresenter
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 
-class DetailPresenter(val mView : DetailView.View, val matchEventPresenter: MatchEventPresenter) : DetailView.Presenter {
+class DetailPresenter(private val mView : DetailView.View, private val matchEventPresenter: MatchEventPresenter) : DetailView.Presenter {
 
     override fun getTeamsBadgeHome(id: String) {
         compositeDisposable.add(matchEventPresenter.getTeams(id)
@@ -17,7 +17,7 @@ class DetailPresenter(val mView : DetailView.View, val matchEventPresenter: Matc
                 })
     }
 
-    val compositeDisposable = CompositeDisposable()
+    private val compositeDisposable = CompositeDisposable()
 
     override fun getTeamsBadgeAway(id:String) {
         compositeDisposable.add(matchEventPresenter.getTeams(id)

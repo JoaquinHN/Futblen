@@ -1,7 +1,7 @@
 package com.darax.futblen.api
 
 import com.darax.futblen.model.MatchEventResponse
-import com.example.achmad.FootballMatchScheduleVer1.model.TeamsResponse
+import com.darax.futblen.model.TeamsResponse
 import io.reactivex.Flowable
 import retrofit2.http.GET
 import retrofit2.http.Query

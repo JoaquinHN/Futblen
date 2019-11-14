@@ -18,7 +18,7 @@ import org.jetbrains.anko.AnkoLogger
 
 class MainActivity : AppCompatActivity(), AnkoLogger, MainView.View {
 
-    lateinit var mPresenter : MainPresenter
+    private lateinit var mPresenter : MainPresenter
 
     private var matchLists : MutableList<MatchEvent> = mutableListOf()
 

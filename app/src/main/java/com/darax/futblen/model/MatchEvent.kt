@@ -1,10 +1,11 @@
 package com.darax.futblen.model
-
+//https://kotlinlang.org/docs/tutorials/android-plugin.html
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
 import kotlinx.android.parcel.Parcelize
 
 @Parcelize
+//https://devexperto.com/data-classes-kotlin/
 data class MatchEvent(
         @SerializedName("dateEvent") var dateEvent: String?,
         @SerializedName("idAwayTeam") var idAwayTeam: String,

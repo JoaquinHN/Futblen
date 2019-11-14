@@ -2,8 +2,6 @@ package com.darax.futblen.model
 
 
 import com.darax.futblen.api.TheSportDBRest
-import com.example.achmad.FootballMatchScheduleVer1.model.MatchEventView
-import com.example.achmad.FootballMatchScheduleVer1.model.TeamsResponse
 import io.reactivex.Flowable
 
 class MatchEventPresenter(private val theSportDBRest: TheSportDBRest) : MatchEventView {
