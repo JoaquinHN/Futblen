@@ -13,7 +13,7 @@ import kotlinx.android.synthetic.main.activity_detail.*
 
 class DetailActivity : AppCompatActivity(), DetailView.View {
 
-    //TUTORIAL ACERCAD DE RECYCLER VIEW
+    //TUTORIAL ACERCA DE RECYCLER VIEW
     //https://cursokotlin.com/capitulo-15-recyclerview-kotlin/
     override fun displayTeamBadgeAway(team: Teams) {
 

@@ -2,7 +2,9 @@ package com.darax.futblen.adapter
 
 import android.content.Context
 import android.content.Intent
+import android.content.Intent.FLAG_ACTIVITY_NEW_TASK
 import android.os.Build
+import android.support.v4.content.ContextCompat.startActivity
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
@@ -11,6 +13,8 @@ import com.darax.futblen.activities.detail.DetailActivity
 import com.darax.futblen.model.MatchEvent
 import com.darax.futblen.R
 import kotlinx.android.synthetic.main.match_item.view.*
+import org.jetbrains.anko.browse
+import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.startActivity
 
 class TeamsAdapter(private val eventList:List<MatchEvent>, val context: Context): RecyclerView.Adapter<TeamsAdapter.ClubViewHolder>() {
@@ -46,9 +50,20 @@ class TeamsAdapter(private val eventList:List<MatchEvent>, val context: Context)
 
 
             itemView.setOnClickListener {
-                itemView.context.startActivity<DetailActivity>("match" to event)
+                //Intent.FLAG_ACTIVITY_NEW_TASK
+                itemView.context.startActivity(context.intentFor<DetailActivity>("match" to event).addFlags(
+                    FLAG_ACTIVITY_NEW_TASK))
 
-                Intent.FLAG_ACTIVITY_NEW_TASK
+
+
+
+
+                //intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+                //val intent= match1(this.itemView)
+
+                //val intent
+
+
 
             }
         }
