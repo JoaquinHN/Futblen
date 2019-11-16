@@ -35,6 +35,7 @@ class TeamsAdapter(private val eventList:List<MatchEvent>, val context: Context)
                     itemView.dateScheduleTv.setTextColor(context.getColor(R.color.colorAccent))
                 }
             }
+            //Aca se usa anko, es una libreria de kotlin que hace mas facil el codigo acortando lineas
             itemView.dateScheduleTv.text = event.dateEvent
             itemView.homeNameTv.text = event.strHomeTeam
             itemView.homeScoreTv.text = event.intHomeScore

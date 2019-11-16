@@ -7,7 +7,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface TheSportDBRest {
-
+//Datos tomados de la API https://www.thesportsdb.com/api.php
     @GET("eventspastleague.php")
     fun getLastmatch(@Query("id") id:String) : Flowable<MatchEventResponse>
 

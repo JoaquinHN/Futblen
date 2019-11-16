@@ -6,6 +6,7 @@ import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 //https://devexperto.com/data-classes-kotlin/
+//El data class es necesario por el uso de Recicler View
 data class MatchEvent(
         @SerializedName("dateEvent") var dateEvent: String?,
         @SerializedName("idAwayTeam") var idAwayTeam: String,

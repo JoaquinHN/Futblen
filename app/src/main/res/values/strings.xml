@@ -5,7 +5,7 @@
     <string name="home_badge">Home Badge</string>
     <string name="vs">VS</string>
     <string name="away_badge">Away Badge</string>
-    <string name="shots">Tirador</string>
+    <string name="shots">Datos del Partido</string>
     <string name="goaler">Goleador</string>
     <string name="goalkeeper">Portero</string>
     <string name="defense">Defensa</string>

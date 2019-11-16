@@ -52,6 +52,7 @@ class DetailActivity : AppCompatActivity(), DetailView.View {
         supportActionBar?.title = event.strEvent
     }
 
+
     private fun initData(matchEvent: MatchEvent) {
         if (matchEvent.intHomeScore == null) {
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {

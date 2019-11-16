@@ -2,7 +2,7 @@ package com.darax.futblen.model
 
 import com.google.gson.annotations.SerializedName
 
-
+//Aca estan datos de otras ligas algunos estan sin utilizar debido a que en la aplicacion solo se usa una Liga
 data class Teams(
 
         @SerializedName("idLeague")
